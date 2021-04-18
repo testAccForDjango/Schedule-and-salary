@@ -1,0 +1,16 @@
+C:\Users\Virtual\source\repos\Optovik\bin\Release\Optovik.exe.config
+C:\Users\Virtual\source\repos\Optovik\bin\Release\Optovik.exe
+C:\Users\Virtual\source\repos\Optovik\bin\Release\Optovik.pdb
+C:\Users\Virtual\source\repos\Optovik\bin\Release\MaterialSkin.dll
+C:\Users\Virtual\source\repos\Optovik\bin\Release\MetroFramework.Design.dll
+C:\Users\Virtual\source\repos\Optovik\bin\Release\MetroFramework.dll
+C:\Users\Virtual\source\repos\Optovik\bin\Release\MetroFramework.Fonts.dll
+C:\Users\Virtual\source\repos\Optovik\obj\Release\Optovik.csprojAssemblyReference.cache
+C:\Users\Virtual\source\repos\Optovik\obj\Release\Optovik.MainFormZP.resources
+C:\Users\Virtual\source\repos\Optovik\obj\Release\Optovik.Properties.Resources.resources
+C:\Users\Virtual\source\repos\Optovik\obj\Release\Optovik.UserControlGraph.resources
+C:\Users\Virtual\source\repos\Optovik\obj\Release\Optovik.UserControlZP.resources
+C:\Users\Virtual\source\repos\Optovik\obj\Release\Optovik.csproj.GenerateResource.cache
+C:\Users\Virtual\source\repos\Optovik\obj\Release\Optovik.csproj.CopyComplete
+C:\Users\Virtual\source\repos\Optovik\obj\Release\Optovik.exe
+C:\Users\Virtual\source\repos\Optovik\obj\Release\Optovik.pdb
